@@ -159,12 +159,9 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-venv
+# Things I added.
 .DS_Store
 .vscode
-.venv
-.stata_202408/.
-stata_202408/.
 *.dta
 
 
